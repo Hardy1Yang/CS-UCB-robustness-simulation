@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Method Comparison Under Perfect Item-Parameter Knowledge}
+\label{tab:robustness-method-perfect}
+\begin{tabular}{lccc}
+\toprule
+Method & RMSE & Coverage (\%) & Mean width \\
+\midrule
+InfoMax & 0.828 & 91.74 & 1.087 \\
+CS-UCB Mixture & 0.900 & 91.32 & 1.233 \\
+CS-UCB Theory & 0.905 & 91.18 & 1.262 \\
+CS-UCB ObsInfo & 0.910 & 91.16 & 1.262 \\
+CS-UCB Bernstein & 0.912 & 91.18 & 1.256 \\
+Progressive & 1.244 & 86.78 & 1.160 \\
+KL Information & 1.682 & 78.48 & 1.265 \\
+MPWI & 2.445 & 53.89 & 2.598 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,16 @@
+"bank","max_exposure","n_overexposed","iterations","converged"
+"K300_rho3",0.249,0,34,TRUE
+"K300_rho5",0.25,0,29,TRUE
+"K300_rho10",0.27,7,100,FALSE
+"K300_rho30",0.25,0,42,TRUE
+"K300_rho50",0.247,0,40,TRUE
+"K600_rho3",0.25,0,27,TRUE
+"K600_rho5",0.25,0,32,TRUE
+"K600_rho10",0.25,0,35,TRUE
+"K600_rho30",0.247,0,40,TRUE
+"K600_rho50",0.248,0,29,TRUE
+"K900_rho3",0.248,0,32,TRUE
+"K900_rho5",0.249,0,26,TRUE
+"K900_rho10",0.248,0,18,TRUE
+"K900_rho30",0.25,0,50,TRUE
+"K900_rho50",0.247,0,25,TRUE

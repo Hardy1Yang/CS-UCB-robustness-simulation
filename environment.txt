@@ -1,0 +1,17 @@
+Environment of the verification run of 2026-11-03 (Rscript run_all.R --quick, plus scripts/03_analyze.R
+on the archived June 2026 per-test results), which reproduced the archived results exactly.
+The June 2026 simulation itself ran on the same computer.
+
+R: 4.5.1
+Platform: aarch64-apple-darwin20 (Apple M4, 10 cores)
+OS: macOS 27.0.1
+C++ compiler: Apple clang 21.0.0, macOS SDK 26.5 (SDKROOT, see README)
+
+Packages:
+  Rcpp 1.1.1
+  doRNG 1.8.6.3
+  doParallel 1.0.17
+  foreach 1.5.2
+  catR 3.17
+  tidyverse 2.0.0 (dplyr 1.2.0, tidyr 1.3.2, readr 2.2.0, ggplot2 3.5.2, forcats 1.0.1)
+  scales 1.4.0
